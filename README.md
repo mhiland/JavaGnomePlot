@@ -6,3 +6,6 @@ This package allows developers using the Java-Gnome bindings to make 2D plots us
 The user can use the internal viewer to view plots and save to file, save directly to file or embed plots into their own software. 
 
 The examples folder shows these three cases.
+
+
+Example plot https://github.com/mhiland/JavaGnomePlot/blob/master/output.pdf
